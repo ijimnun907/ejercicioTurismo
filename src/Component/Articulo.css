@@ -1,0 +1,30 @@
+.foto {
+    background: linear-gradient(blue, white);
+    align-items: center;
+    margin-bottom: 35px;
+    padding: 23px;
+}
+.foto img {
+    width: 40%;
+    padding-left: 31%;
+}
+.foto h3 {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+.foto p {
+    font-size: 16px;
+    color: gray;
+}
+.foto .detalles {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(182, 104, 8);
+    color: white;
+    text-decoration: none;
+    border-radius: 9px;
+}
+.foto .detalles:hover {
+    background-color: #854c06;
+}

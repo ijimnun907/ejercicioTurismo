@@ -36,23 +36,7 @@ header {
     text-align: right;
 }
 
-.menu {
-    background-color: rgb(182, 104, 8);
-}
-.menu ul {
-    margin: auto;
-    padding-left: 250px;
-}
-.menu li {
-    list-style: none;
-    display: inline-block;
-    margin: 20px;
-    color: white;
-}
-.menu li:hover {
-    font-size: 25px;
-    color: gray;
-}
+
 
 .imagen_banner {
     width: 100%;
@@ -67,37 +51,6 @@ header {
 section {
     display: flex;
     flex-direction: row;
-}
-
-.foto {
-    background: linear-gradient(blue, white);
-    align-items: center;
-    margin-bottom: 35px;
-    padding: 23px;
-}
-.foto img {
-    width: 40%;
-    padding-left: 31%;
-}
-.foto h3 {
-    font-size: 25px;
-    color: white;
-    text-align: center;
-}
-.foto p {
-    font-size: 16px;
-    color: gray;
-}
-.foto .detalles {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: rgb(182, 104, 8);
-    color: white;
-    text-decoration: none;
-    border-radius: 9px;
-}
-.foto .detalles:hover {
-    background-color: #854c06;
 }
 
 #menu-check, #menu-abrir, #menu-cerrar {
